@@ -104,8 +104,5 @@ To run this project, you will need to add the following environment variables to
 
 ## Authors
 
-- [@omidhokate2002](https://github.com/omidhokate2002)
+- (https://github.com/vatsal1812)https://github.com/vatsal1812
 
-  
-## Contributors
-- Vishnu Divakaran ([@vishnumd91](https://github.com/vishnumd91)): Razorpay Integration
